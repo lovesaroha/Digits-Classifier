@@ -45,7 +45,7 @@ let inputs = [];
 
 let model;
 // Load trained model.
-tf.loadLayersModel("https://models.lovesaroha.com/digits-classification-model/model.json").then(savedModel => {
+tf.loadLayersModel("https://models.lovesaroha.com/Digits-Classification-Model/model.json").then(savedModel => {
     model = savedModel;
     document.getElementById("view_id").innerHTML = document.getElementById("homePage_id").innerHTML;
     canvas = document.getElementById('myCanvas');
