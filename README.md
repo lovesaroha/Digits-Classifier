@@ -1,5 +1,5 @@
 # Digits Classifier
-A simple digits classifier trained on mnist dataset.<br> Trained model files [lovesaroha/Trained-Models/Digits-Classification-Model](https://github.com/lovesaroha/Trained-Models/Digits-Classification-Model)<br>
+A simple digits classifier trained on mnist dataset.<br> Trained model files [lovesaroha/Trained-Models/Digits-Classification-Model](https://github.com/lovesaroha/Trained-Models/tree/main/Digits-Classification-Model)<br>
 Demo [lovesaroha/Digits-Classifier](https://ml.lovesaroha.com/Digits-Classifier)
 
 ![image](https://raw.githubusercontent.com/lovesaroha/gimages/main/70.png)
